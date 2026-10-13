@@ -1,16 +1,85 @@
-# React + Vite
+# Sachin Kumar — MERN Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal developer portfolio showcasing my technical skills, projects, and journey as an aspiring Full-Stack MERN Developer.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hi, I'm Sachin Kumar, a 2026 B.Tech Computer Science and Engineering graduate from NIET, Greater Noida. I am passionate about building responsive, user-friendly web applications and developing my skills across the MERN stack.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code, Vite
 
-## Expanding the Oxlint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 1. Team Task Management System
+
+A full-stack application designed to organize projects and manage tasks.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB
+
+- REST API integration for task and project management.
+- JWT-based authentication.
+- React Context API for state management.
+
+**Source Code:** [Add repository link]
+
+### 2. Health Tracker Web App
+
+A web application for calculating and displaying health metrics.
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+- Calculates BMI and BMR.
+- Provides daily water intake estimates.
+- Uses interactive UI components and JavaScript calculations.
+
+**Live Demo:** [https://teal-boba-df1435.netlify.app](https://teal-boba-df1435.netlify.app)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+- Git installed
+
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Sachin8297/sachin-mern-portfolio.git
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd sachin-Full-Stack-portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Contact
+
+- **GitHub:** [https://github.com/Sachin8297](https://github.com/Sachin8297)
+- **LinkedIn:** [https://www.linkedin.com/in/sachin-kumar-335373410](https://www.linkedin.com/in/sachin-kumar-335373410)
+- **Email:** [sr829799@gmail.com](mailto\:sr829799@gmail.com)
+
+---
+
+Built by Sachin Kumar using React.js and Vite.
